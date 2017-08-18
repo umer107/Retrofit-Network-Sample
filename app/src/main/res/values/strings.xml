@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Retrofit-Network-Sample</string>
+    <string name="error_404">404\nEven the things we love break sometimes,Thanks for your patience while we put the pieces back together</string>
+    <string name="global_network_fail">Communication with server failed, please try again.</string>
+    <string name="global_network_unknown_host">Cannot establish a connection to the server, please try again.</string>
+    <string name="global_network_not_found">Resource not found, please try again.</string>
+    <string name="global_network_timeout">Slow internet connection or Server is currently not responding, please try again.</string>
+    <string name="global_network_error">An error occurred, please try again.</string>
+    <string name="global_network_no_data">No data come from server, please try again.</string>
+    <string name="progressbar_default_msg">Please wait...</string>
+</resources>
